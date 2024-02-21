@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" id='readme-top'>
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/logo.jpeg?raw=true" alt="Logo" width="80" height="80">
+  <a href="">
+    <img src="https://github.com/arpan-kumar-saini/music-website/blob/main/images/pic3.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Music app</h3>
+  <h3 align="center">Personal Portfolio</h3>
 
   <p align="center">
-    This project is a Music Player Website.
+    This project is a Personal Portfolio Website.
     <br />   
     <br />
     <a href="https://arpan-music.netlify.app/">View Demo</a>
@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://arpansaini.netlify.app/music-app.png'>
+<img src='https://github.com/arpan-kumar-saini/stock-animation/blob/main/PortfolioHomepage.gif'>
 
 
 Introducing Arpan Music, a harmonious oasis in the digital soundscape. Born as a passion project on GitHub, Arpan Music is not just a music website; it's a carefully curated collection of melodies designed to captivate your senses and elevate your listening experience
