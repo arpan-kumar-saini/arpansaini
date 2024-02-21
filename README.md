@@ -13,7 +13,7 @@
     This project is a Personal Portfolio Website.
     <br />   
     <br />
-    <a href="https://arpan-music.netlify.app/">View Demo</a>
+    <a href="https://arpansaini.netlify.app/">View Demo</a>
     ·
     <a href="">Report Bug</a>
     ·
@@ -46,7 +46,29 @@
 <img src='https://github.com/arpan-kumar-saini/stock-animation/blob/main/PortfolioHomepage.gif'>
 
 
-Introducing Arpan Music, a harmonious oasis in the digital soundscape. Born as a passion project on GitHub, Arpan Music is not just a music website; it's a carefully curated collection of melodies designed to captivate your senses and elevate your listening experience
+🌟 Welcome to the vibrant digital universe of Arpan Saini! 🚀 <br>
+
+🎨 Crafting digital dreams into reality, one pixel at a time! 🖥️ <br>
+
+👨‍💻 Meet Arpan Saini, your friendly neighborhood web wizard! 💫 <br>
+
+🌟 Who am I? Just your average code conjurer with a sprinkle of creativity! 🎩✨ <br>
+
+🚀 Let's dive into a world where imagination meets innovation! 🌈 <br>
+
+🔥 I'm not just a developer, I'm a digital architect building bridges between dreams and code! 🏗️💭 <br>
+
+💡 Need a website that pops? Look no further! I turn visions into visually stunning realities! 🎉 <br>
+
+🌟 From sleek designs to seamless functionality, I've got your back! 💻💫 <br>
+
+🚀 Join me on a journey where every click sparks joy and every scroll tells a story! 📜✨ <br>
+
+💥 Let's collaborate and create digital masterpieces that leave the world in awe! 🌍🎨 <br>
+
+🔥 So, what are you waiting for? Let's make magic together! 🌟✨ <br>
+
+👉 Dive into my portfolio and let's bring your digital dreams to life! 🌟💻 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +123,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@arpan_kumar_saini](https://www.instagram.com/arpan_kumar_saini/) - arpansaini55@gamil.com
 
-Project Link: [https://github.com/arpan-kumar-saini/music-website](https://github.com/arpan-kumar-saini/music-website)
+Project Link: [https://github.com/arpan-kumar-saini/arpansaini](https://github.com/arpan-kumar-saini/arpansaini)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
